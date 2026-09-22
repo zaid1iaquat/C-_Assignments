@@ -1,0 +1,7 @@
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\obj\Debug\ConsoleApp2_assignment.csproj.AssemblyReference.cache
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\obj\Debug\ConsoleApp2_assignment.csproj.CoreCompileInputs.cache
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\bin\Debug\ConsoleApp2_assignment.exe.config
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\bin\Debug\ConsoleApp2_assignment.exe
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\bin\Debug\ConsoleApp2_assignment.pdb
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\obj\Debug\ConsoleApp2_assignment.exe
+D:\Study Material\5th Sem\C#\ConsoleApp2_assignment\ConsoleApp2_assignment\obj\Debug\ConsoleApp2_assignment.pdb
